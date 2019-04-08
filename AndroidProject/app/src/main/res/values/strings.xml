@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RT Chat</string>
+    <string name="title">End-To-End Encrypted\nMessaging App</string>
+    <string name="room_et_hint">ROOM</string>
+    <string name="nickname_et_hint">NICKNAME</string>
+    <string name="description">this is a basic example of a completely encrypted messenger using 2048-bit RSA encryption and android keystore system you can improve it by using a db system like redis, adding group chat and other futures\n Hope it helps :)</string>
+    <string name="nickname_txt">Nickname: </string>
+    <string name="room_id_txt">Room ID: </string>
+    <string name="message_edt_hint">Write a message...</string>
+</resources>
