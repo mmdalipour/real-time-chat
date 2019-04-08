@@ -26,4 +26,8 @@ cd sdk/tools
 emulator -avd <FIRST_DEVICE_NAME>
 emulator -avd <SECOND_DEVICE_NAME>
 ```
+
+fill the inputs use a nickname for each device and a same room_id for both both clients need to be on the same room to be able 
+to communicate with each other
+
 **ENJOY!**
