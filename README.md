@@ -1,7 +1,7 @@
 # RTChat
 Basic end-to-end encrypted messenger using 2048-bit RSA encryption; android, nodejs, express, socket.io
 
-![alt text](https://raw.githubusercontent.com/localXx/RTChat/master/res/rt_chat.jpg)
+![rt_chat](https://user-images.githubusercontent.com/48043565/55880545-2980e780-5bb6-11e9-8fd9-90286b43efb3.jpg)
 
 # Overview
 Basic end-to-end encrypted messenger using 2048-bit RSA encryption, RSA keypairs are stored in android keystore system.
